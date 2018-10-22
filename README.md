@@ -12,7 +12,7 @@ http://rendti.com.br/react/dashboard/
 
 * [Java Spring Boot](https://github.com/rafaelrend/crud_javaspring_restapi) (Progress: 70%)
 
-* .NET Core 3 (Coming Soon)
+* .NET Core 2 (Coming Soon)
 
 ## Features
 
