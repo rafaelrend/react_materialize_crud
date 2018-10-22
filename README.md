@@ -4,8 +4,12 @@
 
 http://rendti.com.br/react/dashboard/
 
-* There are 2 CRUDs: Book and Author.
+## Features
+
+* There are 2 CRUDs: Book and Author (Every Grid has functions to pagging and sorting direct by backend api).
+
 * Based on Creative Tim Template (Material React) [Creative Tim Template](https://demos.creative-tim.com/material-dashboard-react/#/dashboard).
+
 
 ## Install
 
@@ -18,7 +22,7 @@ http://rendti.com.br/react/dashboard/
 npm run-script build
 
 
-##Enviroment Files
+## Enviroment Files
 
 * .env file, set root folder server (PUBLIC_URL - default "/" ) for production.
 * views\App\Contants.jsx  (API URL and Root Folder App)
