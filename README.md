@@ -6,7 +6,7 @@ http://rendti.com.br/react/dashboard/
 
 <img src="http://www.rendti.com.br/react/demo_react2.gif" />
 
-## BackEnd Versions
+## BackEnd APIs
 
 * [PHP Laravel](https://github.com/rafaelrend/phplaravel_restapi)  (Ready to use)
 
